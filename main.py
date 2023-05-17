@@ -1,7 +1,7 @@
-from tkinter import *
+from tkinter import *4
+print("Tkinter import")
 import mysql.connector as MC
 import game
-import smtplib
 window = Tk()
 window.mainloop()
 window.title("Pas d’idee de nom")
