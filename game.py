@@ -1,3 +1,2 @@
-
-def start():
-	import pygame
+def game():
+    print("btn")
