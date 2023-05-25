@@ -1,5 +1,7 @@
-from tkinter import *
-import importlib
+from prerequie import module
+tk()
+impor()
+mysql()
 def menuplay():
     def import_module_on_click():
         module_name = "Game/LCAT/menu_carte_au_tresor"
