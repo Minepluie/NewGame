@@ -1,4 +1,10 @@
-import mysql.connector as MC
-from tkinter import *
-import importlib
 import pygame
+class module:
+  def mysql():
+    import mysql.connector as MC
+  def tk():
+    from tkinter import *
+  def impor():
+    import importlib
+  def mod_game():
+    import pygame
