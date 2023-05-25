@@ -1,4 +1,3 @@
-import pygame
 class module:
   def mysql():
     import mysql.connector as MC
