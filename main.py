@@ -1,6 +1,4 @@
-from tkinter import *
-import mysql.connector as MC
-import importlib
+from prerequie import module
 
 def import_module_on_click():
     module_name = "menu_play"
