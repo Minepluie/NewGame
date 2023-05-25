@@ -1,4 +1,7 @@
 from prerequie import module
+tk()
+impor()
+mysql()
 
 def import_module_on_click():
     module_name = "menu_play"
