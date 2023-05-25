@@ -2,7 +2,7 @@ from tkinter import *
 import importlib
 def menuplay():
     def import_module_on_click():
-        module_name = "Game/menu_carte_au_tresor"
+        module_name = "Game/LCAT/menu_carte_au_tresor"
         imported_module = importlib.import_module(module_name)
         imported_module.menu_carte()  # Correction ici
         # Vous pouvez maintenant utiliser le module importé selon vos besoins
